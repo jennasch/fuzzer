@@ -7,9 +7,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
-
-	"net/http"
-
+	
 	"github.com/notion/bastion/asciicast"
 	"github.com/notion/bastion/config"
 )
