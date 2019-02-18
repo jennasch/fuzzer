@@ -1,0 +1,51 @@
+cookiesecret: s0secure
+dbinfo:
+  host: localhost
+  name: example
+  pass: example
+  port: 3306
+  sqlite: true
+  user: example
+debug:
+  db:
+    enabled: true
+  ssh:
+    enabled: true
+  web:
+    enabled: true
+gce:
+  bucket:
+    enabled: true
+    name: example-logs
+  iap:
+    aud: /projects/0000000000000/global/backendServices/000000000000000000
+    enabled: false
+    hd:
+    - example.com
+    issuer: https://cloud.google.com/iap
+  lb:
+    enabled: false
+    proxyproto:
+      enabled: false
+multihost:
+  enabled: false
+  hostname: ""
+  ip: ""
+oauthcredentials:
+  clientid: 0000000000000-foobar.apps.googleusercontent.com
+  clientsecret: foobar
+  endpoint:
+    authurl: https://accounts.google.com/o/oauth2/auth
+    tokenurl: https://accounts.google.com/o/oauth2/token
+  redirecturl: https://auth.example.com
+  scopes:
+  - https://www.googleapis.com/auth/userinfo.email
+otp:
+  enabled: false
+  issuer: example.com
+pkpassphrase: ""
+sessions:
+  directory: sessions
+  enabled: true
+sshcert:
+  graceperiod: 4h
