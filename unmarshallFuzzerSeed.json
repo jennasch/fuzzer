@@ -1,0 +1,20 @@
+[
+    {
+        "version" : 1,
+        "width" : 2,
+        "height" : 3,
+        "timestamp" : 3,
+        "duration" : null,
+        "idle_time_limit" : null,
+        "command" : null,
+        "title" : null,
+        "env" : null,
+        "theme" : null
+    },
+    {
+        "Time" : 10,
+        "Event" : "Jenna",
+        "Data" : "Jenna",
+        "Author" : "Jenna"
+    }
+]
