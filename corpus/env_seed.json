@@ -1,0 +1,3 @@
+{"ForceGeneration":false,"PKPassphrase":"","SSHServerClients":{},"SSHProxyClients":{},"WebsocketClients":{},"DB":{"Value":null,"Error":null,"RowsAffected":0},"Config":{"ID":0,"CreatedAt":"0001-01-01T00:00:00Z","UpdatedAt":"0001-01-01T00:00:00Z","DeletedAt":null,"Expires":"48h","PrivateKey":null,"UserPrivateKey":null,"ServerPrivateKey":null,"DefaultHosts":""},"LogsBucket":null,"Vconfig":{},"Red":{"Color":{}},"Green":{"Color":{}},"Yellow":{"Color":{}},"Blue":{"Color":{}},"Magenta":{"Color":{}},"SSHPort":":5222","SSHProxyPort":"localhost:22222","HTTPPort":":8080","MonPort":":9501"}
+{"Request":null,"Writer":{"ResponseWriter":null},"Params":null,"Keys":null,"Errors":null,"Accepted":null}
+!!
